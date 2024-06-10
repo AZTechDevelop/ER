@@ -505,7 +505,7 @@ document.getElementById('cart').addEventListener('click', showCartContents);
 function removeFromCart(index) {
     cartPrice -= cart[index].price;
     cart.splice(index, 1);
-    if (isCartVisible) {
+    if(isCartVisible) {
         showCartContents();
     }
    

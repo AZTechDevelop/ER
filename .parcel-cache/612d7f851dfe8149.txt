@@ -5158,7 +5158,7 @@
 87/workspaces/Erasmus-Book-Shop-Updater/node_modules/globalthis/implementation.browser.js1718008760922656900 0
 79/workspaces/Erasmus-Book-Shop-Updater/node_modules/config-chain/readme.markdown1718008761850656868 0
 70/workspaces/Erasmus-Book-Shop-Updater/node_modules/coa/lib/coaparam.js1718008762882656832 0
-49/workspaces/Erasmus-Book-Shop-Updater/development1718009852646619027 1
+49/workspaces/Erasmus-Book-Shop-Updater/development1718010497418596659 1
 90/workspaces/Erasmus-Book-Shop-Updater/node_modules/node-gyp/node_modules/ssri/package.json1718010017274613316 0
 93/workspaces/Erasmus-Book-Shop-Updater/node_modules/@lmdb/lmdb-linux-x64/node.abi93.glibc.node1718008766770656697 0
 87/workspaces/Erasmus-Book-Shop-Updater/node_modules/cosmiconfig/dist/ExplorerSync.js.map1718008762882656832 0
@@ -7913,7 +7913,7 @@
 84/workspaces/Erasmus-Book-Shop-Updater/node_modules/path-scurry/dist/mjs/index.js.map1718008762426656848 0
 88/workspaces/Erasmus-Book-Shop-Updater/node_modules/node-gyp/gyp/pylib/gyp/MSVSVersion.py1718010017806613298 0
 81/workspaces/Erasmus-Book-Shop-Updater/node_modules/fast-glob/out/utils/errno.d.ts1718008763514656810 0
-71/workspaces/Erasmus-Book-Shop-Updater/development/index.a53cf1d7.js.map1718009852646619027 0
+71/workspaces/Erasmus-Book-Shop-Updater/development/index.a53cf1d7.js.map1718010497414596660 0
 120/workspaces/Erasmus-Book-Shop-Updater/node_modules/are-we-there-yet/node_modules/readable-stream/lib/_stream_writable.js1718010017490613308 0
 89/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/2023/StringToCodePoints.js1718008769450656604 0
 104/workspaces/Erasmus-Book-Shop-Updater/node_modules/csso/node_modules/css-tree/lib/syntax/atrule/media.js1718008767902656658 0
@@ -8417,7 +8417,7 @@
 77/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel/transformer-js/lib1718008763134656823 1
 82/workspaces/Erasmus-Book-Shop-Updater/node_modules/socks-proxy-agent/dist/index.js1718010016906613329 0
 87/workspaces/Erasmus-Book-Shop-Updater/node_modules/@swc/helpers/_/_wrap_async_generator1718008768134656650 1
-67/workspaces/Erasmus-Book-Shop-Updater/development/index.a53cf1d7.js1718009852622619028 0
+67/workspaces/Erasmus-Book-Shop-Updater/development/index.a53cf1d7.js1718010497390596660 0
 87/workspaces/Erasmus-Book-Shop-Updater/node_modules/node-sass/src/libsass/docs/README.md1718010017982613291 0
 86/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/2022/BigInt/lessThan.js1718008768630656632 0
 85/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/helpers/isByteValue.js1718008768354656642 0
@@ -12128,7 +12128,7 @@
 105/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src1718008765630656736 1
 99/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel/packager-js/lib/ScopeHoistingPackager.js1718008764066656791 0
 113/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src/core.js1718008764966656759 0
-59/workspaces/Erasmus-Book-Shop-Updater/src/scripts/script.js1718010440442598636 0
+59/workspaces/Erasmus-Book-Shop-Updater/src/scripts/script.js1718010751106587859 0
 108/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-svgo/node_modules/csso/node_modules/mdn-data/api1718008766042656722 1
 116/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src/signals.js1718008765186656752 0
 117/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src/main.js.map1718008765558656739 0
