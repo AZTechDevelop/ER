@@ -373,12 +373,9 @@ function addToCart(book) {
     if (isCartVisible) {
         showCartContents(); 
     }
-    updateCartUI(); 
+   
 }
 
-function updateCartUI() {
-    console.log(cart); 
-}
 
 document.addEventListener('DOMContentLoaded', function() {
     displayBooks(books);
@@ -509,9 +506,9 @@ function removeFromCart(index) {
     cartPrice -= cart[index].price;
     cart.splice(index, 1);
     if (isCartVisible) {
-        showCartContents(); // Actualizează dinamic conținutul coșului după eliminare
+        showCartContents();
     }
-    updateCartUI(); 
+   
 }
 
 document.getElementById('cart').addEventListener('click', toggleCartContents);
@@ -587,7 +584,7 @@ function toggleCartContents() {
 
 function addToCart(book) {
     cart.push(book);
-    updateCartUI();
+   
     if (isCartVisible) {
         showCartContents(); 
     }
