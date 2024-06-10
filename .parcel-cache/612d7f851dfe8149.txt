@@ -717,7 +717,7 @@
 63/workspaces/Erasmus-Book-Shop-Updater/node_modules/semver-regex1718008758542656982 1
 74/workspaces/Erasmus-Book-Shop-Updater/node_modules/parent-module/readme.md1718008758878656971 0
 73/workspaces/Erasmus-Book-Shop-Updater/node_modules/parent-module/index.js1718008758718656976 0
-69/workspaces/Erasmus-Book-Shop-Updater/node_modules/.package-lock.json1718010020498613204 0
+69/workspaces/Erasmus-Book-Shop-Updater/node_modules/.package-lock.json1718011258734570249 0
 100/workspaces/Erasmus-Book-Shop-Updater/node_modules/download/node_modules/get-stream/buffer-stream.js1718008765130656754 0
 96/workspaces/Erasmus-Book-Shop-Updater/node_modules/download/node_modules/get-stream/package.json1718008765062656756 0
 93/workspaces/Erasmus-Book-Shop-Updater/node_modules/download/node_modules/get-stream/readme.md1718008765330656747 0
@@ -4334,7 +4334,7 @@
 84/workspaces/Erasmus-Book-Shop-Updater/node_modules/svgo/plugins/removeXMLProcInst.js1718008765874656728 0
 69/workspaces/Erasmus-Book-Shop-Updater/node_modules/lodash/fp/paths.js1718010018122613287 0
 116/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/restructure/utils.js1718008766622656702 0
-68/workspaces/Erasmus-Book-Shop-Updater/node_modules/@msgpackr-extract1718010020178613215 1
+68/workspaces/Erasmus-Book-Shop-Updater/node_modules/@msgpackr-extract1718011258310570264 1
 83/workspaces/Erasmus-Book-Shop-Updater/node_modules/electron-to-chromium/versions.js1718008762386656849 0
 70/workspaces/Erasmus-Book-Shop-Updater/node_modules/executable/index.js1718008760930656899 0
 72/workspaces/Erasmus-Book-Shop-Updater/node_modules/lodash/fp/takeLast.js1718010018154613285 0
@@ -6616,7 +6616,7 @@
 60/workspaces/Erasmus-Book-Shop-Updater/node_modules/get-proxy1718008760846656902 1
 81/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/2016/DaysInYear.js1718008767790656661 0
 69/workspaces/Erasmus-Book-Shop-Updater/node_modules/is-symbol/index.js1718008760266656922 0
-56/workspaces/Erasmus-Book-Shop-Updater/node_modules/@lmdb1718010020178613215 1
+56/workspaces/Erasmus-Book-Shop-Updater/node_modules/@lmdb1718011258310570264 1
 79/workspaces/Erasmus-Book-Shop-Updater/node_modules/typed-array-buffer/.eslintrc1718008757470657019 0
 80/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/2016/SameValue.js1718008769202656613 0
 67/workspaces/Erasmus-Book-Shop-Updater/node_modules/lodash/_Stack.js1718010017846613296 0
@@ -8749,7 +8749,7 @@
 96/workspaces/Erasmus-Book-Shop-Updater/node_modules/csso/node_modules/css-tree/lib/lexer/error.js1718008767830656660 0
 96/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/2022/CreateDataPropertyOrThrow.js1718008767222656681 0
 85/workspaces/Erasmus-Book-Shop-Updater/node_modules/caniuse-lite/data/features/json.js1718008768082656651 0
-50/workspaces/Erasmus-Book-Shop-Updater/node_modules1718010020178613215 1
+50/workspaces/Erasmus-Book-Shop-Updater/node_modules1718011258310570264 1
 97/workspaces/Erasmus-Book-Shop-Updater/node_modules/@pkgjs/parseargs/examples/limit-long-syntax.js1718008762958656829 0
 66/workspaces/Erasmus-Book-Shop-Updater/production/TSOM.a0a99248.jpg1718010395414600198 0
 62/workspaces/Erasmus-Book-Shop-Updater/src/multimedia/TSOTL.jpg1718008717442658408 0
@@ -9433,7 +9433,7 @@
 67/workspaces/Erasmus-Book-Shop-Updater/node_modules/chownr/README.md1718010017010613325 0
 69/workspaces/Erasmus-Book-Shop-Updater/node_modules/lodash/fp/curry.js1718010017914613294 0
 69/workspaces/Erasmus-Book-Shop-Updater/node_modules/mimic-fn/readme.md1718008759406656952 0
-55/workspaces/Erasmus-Book-Shop-Updater/node_modules/@swc1718010020174613215 1
+55/workspaces/Erasmus-Book-Shop-Updater/node_modules/@swc1718011258310570264 1
 69/workspaces/Erasmus-Book-Shop-Updater/node_modules/p-reduce/readme.md1718008758878656971 0
 86/workspaces/Erasmus-Book-Shop-Updater/node_modules/@nodelib/fs.stat/out/types/index.js1718008764306656782 0
 74/workspaces/Erasmus-Book-Shop-Updater/node_modules/es-abstract/2020/Set.js1718008769266656610 0
@@ -13238,7 +13238,7 @@
 89/workspaces/Erasmus-Book-Shop-Updater/node_modules/foreground-child/dist/mjs/package.json1718008762094656859 0
 81/workspaces/Erasmus-Book-Shop-Updater/node_modules/glob/dist/esm/pattern.d.ts.map1718008763482656811 0
 100/workspaces/Erasmus-Book-Shop-Updater/node_modules/fast-xml-parser/src/xmlparser/OrderedObjParser.js1718008762746656836 0
-58/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel1718010020178613215 1
+58/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel1718011258310570264 1
 109/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel/runtime-service-worker/src/ServiceWorkerRuntime.js1718008763270656818 0
 91/workspaces/Erasmus-Book-Shop-Updater/node_modules/node-gyp/gyp/pylib/gyp/xcodeproj_file.py1718010017846613296 0
 94/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel/runtime-service-worker/package.json1718008763286656818 0
@@ -16629,7 +16629,7 @@
 106/workspaces/Erasmus-Book-Shop-Updater/node_modules/meow/node_modules/type-fest/source/set-return-type.d.ts1718010017578613305 0
 84/workspaces/Erasmus-Book-Shop-Updater/node_modules/ow/dist/source/utils/of-type.d.ts1718008763314656817 0
 69/workspaces/Erasmus-Book-Shop-Updater/node_modules/bin-check/index.js1718008761946656864 0
-55/workspaces/Erasmus-Book-Shop-Updater/package-lock.json1718010020390613208 0
+55/workspaces/Erasmus-Book-Shop-Updater/package-lock.json1718011258630570252 0
 111/workspaces/Erasmus-Book-Shop-Updater/node_modules/meow/node_modules/type-fest/source/require-at-least-one.d.ts1718010017570613306 0
 107/workspaces/Erasmus-Book-Shop-Updater/node_modules/meow/node_modules/type-fest/source/conditional-pick.d.ts1718010017466613309 0
 98/workspaces/Erasmus-Book-Shop-Updater/node_modules/meow/node_modules/type-fest/source/entries.d.ts1718010017482613309 0
