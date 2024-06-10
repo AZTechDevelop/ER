@@ -955,7 +955,7 @@ function displayBooks(booksToDisplay) {
         const addToCartButton = document.createElement("button");
         addToCartButton.style.height = "auto";
         addToCartButton.style.width = "200px";
-        addToCartButton.innerText = "Adaug\u0103 \xeen co\u0219";
+        addToCartButton.innerText = "Add in cart";
         addToCartButton.onclick = function() {
             addToCart(book);
             cartPrice += book.price;

@@ -9,8 +9,8 @@
     "not dead"
   ],
   "scripts": {
-    "development": "parcel src/index.html --dist-dir development",
-    "production": "parcel build src/index.html --public-url './' --dist-dir production",
+    "development": "parcel index.html --dist-dir development",
+    "production": "parcel build index.html --public-url './' --dist-dir production",
     "cleaning": "rimraf development production .parcel-cache",
     "des": "npm run development",
     "prod": "npm-run-all cleaning production"
