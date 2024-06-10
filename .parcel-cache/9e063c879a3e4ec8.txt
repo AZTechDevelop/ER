@@ -12128,7 +12128,7 @@
 105/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src1718008765630656736 1
 99/workspaces/Erasmus-Book-Shop-Updater/node_modules/@parcel/packager-js/lib/ScopeHoistingPackager.js1718008764066656791 0
 113/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src/core.js1718008764966656759 0
-59/workspaces/Erasmus-Book-Shop-Updater/src/scripts/script.js1718010486526597037 0
+59/workspaces/Erasmus-Book-Shop-Updater/src/scripts/script.js1718010751106587859 0
 108/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-svgo/node_modules/csso/node_modules/mdn-data/api1718008766042656722 1
 116/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src/signals.js1718008765186656752 0
 117/workspaces/Erasmus-Book-Shop-Updater/node_modules/imagemin-pngquant/node_modules/human-signals/build/src/main.js.map1718008765558656739 0
